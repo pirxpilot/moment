@@ -1,19 +1,15 @@
 {
   "name": "moment",
+  "repo": "pirxpilot/moment",
   "version": "2.0.0",
   "description": "Parse, manipulate, and display dates.",
-  "homepage": "http://momentjs.com",
-  "author": "Tim Wood <washwithcare@gmail.com> (http://timwoodcreates.com/)",
   "keywords": [
     "moment",
     "date",
     "time",
     "parse",
     "format",
-    "validate",
-    "i18n",
-    "l10n",
-    "ender"
+    "validate"
   ],
   "scripts": ["index.js"]
 }
