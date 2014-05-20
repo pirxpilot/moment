@@ -1,7 +1,7 @@
 {
   "name": "moment",
   "repo": "pirxpilot/moment",
-  "version": "2.0.0",
+  "version": "2.0.0-1",
   "description": "Parse, manipulate, and display dates.",
   "keywords": [
     "moment",
