@@ -1,7 +1,7 @@
 {
   "name": "moment",
   "repo": "pirxpilot/moment",
-  "version": "2.10.0",
+  "version": "2.10.0-1",
   "main": "moment.js",
   "description": "Parse, validate, manipulate, and display dates in JavaScript.",
   "scripts": [
