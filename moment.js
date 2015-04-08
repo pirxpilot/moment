@@ -59,10 +59,10 @@
     }
 
     function extend(a, b) {
-        for (var i in b) {
-            if (hasOwnProp(b, i)) {
-                a[i] = b[i];
-            }
+        var i, prop, keys = Object.keys(b), l = keys.length;
+        for(i = 0; i < l; i++) {
+            prop = keys[i];
+            a[prop] = b[prop];
         }
 
         if (hasOwnProp(b, 'toString')) {
